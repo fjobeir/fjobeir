@@ -7,7 +7,7 @@ Studying ML and Web3. Build something great that will take some time ...
 
 ### One of my students?
 
-Check those repositories:
+Probably we worked together on one of those repositories:
 
 - Places project: [API](https://github.com/fjobeir/places-api) | [Dashboard](https://github.com/fjobeir/places-dashboard) | [Front](https://github.com/fjobeir/places-web)
 - Links Project: [API](https://github.com/fjobeir/links-api) | [Frontend](https://github.com/fjobeir/links-front)
