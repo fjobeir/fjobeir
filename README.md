@@ -3,7 +3,7 @@
 Working with PHP and JavaScript since 2010. Professional with Laravel and WordPress. I teach [WordPress plugins and Themes Development on Udemy](https://www.udemy.com/course/wordpress-themes-plugins-development/?referralCode=5FE49258397AD5577BAF). Additionally, I am professional in React.js, Next.js and Node.js.
 
 ### Currently
-Studying ML and Web3. Build something great that will take some time ...
+Studying ML and Web3. Building something great that will take some time ...
 
 ### One of my students?
 
