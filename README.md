@@ -13,7 +13,7 @@ Probably we worked together on one of those repositories:
 - Links Project: [API](https://github.com/fjobeir/links-api) | [Frontend](https://github.com/fjobeir/links-front)
 - Trips project: [API](https://github.com/fjobeir/trip-api) | [Dashboard](https://github.com/fjobeir/trip-dashboard) | [Front](https://github.com/fjobeir/trip-front)
 - Companies directory project: [API](https://github.com/fjobeir/companies-directory-api)
-- PWA Workshop: [Start](https://github.com/fjobeir/pwa-starter) | [Done](https://github.com/fjobeir/pwa-done)
+- Progressive Web Apps Workshop: [Start](https://github.com/fjobeir/pwa-starter) | [Done](https://github.com/fjobeir/pwa-done)
 - Midterm Exam: [Frontend](https://github.com/fjobeir/frontend-project-react)
 - [Password Tool](https://github.com/fjobeir/password-generator-checker-react)
 
