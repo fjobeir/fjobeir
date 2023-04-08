@@ -7,7 +7,7 @@ Studying ML and Web3. Building something great that will take some time ...
 
 ### One of my students?
 
-Probably we worked together on one of those repositories:
+Probably we worked together on one of those projects:
 
 - Places project: [API](https://github.com/fjobeir/places-api) | [Dashboard](https://github.com/fjobeir/places-dashboard) | [Front](https://github.com/fjobeir/places-web)
 - Links Project: [API](https://github.com/fjobeir/links-api) | [Frontend](https://github.com/fjobeir/links-front)
@@ -16,7 +16,8 @@ Probably we worked together on one of those repositories:
 - Progressive Web Apps Workshop: [Start](https://github.com/fjobeir/pwa-starter) | [Done](https://github.com/fjobeir/pwa-done)
 - Midterm Frontend Project: [Front App](https://github.com/fjobeir/frontend-project-react)
 - [Password Tool](https://github.com/fjobeir/password-generator-checker-react)
-- For Develhope Academy students: [Click Here](https://github.com/fjobeir/develhope)
+- For Develhope Academy Students: [Click Here](https://github.com/fjobeir/develhope)
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffjobeir.fjobeir%2Freadme)
-
+### Get in touch
+- [Linkedin](https://www.linkedin.com/in/fjobeir)
+- [Twitter](https://twitter.com/fjobeir)
