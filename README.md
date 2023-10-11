@@ -1,6 +1,6 @@
 ### About Feras Jobeir
 
-Working with PHP and JavaScript since 2010. Professional in Laravel and WordPress. I teach [WordPress plugins and Themes Development on Udemy](https://www.udemy.com/course/wordpress-themes-plugins-development/?referralCode=5FE49258397AD5577BAF). Additionally, I am professional in React.js, Next.js and Node.js. Lastly, I am also familiar with Swift.
+Working with PHP and JavaScript since 2010. Professional in Laravel and WordPress. I teach [WordPress plugins and Themes Development on Udemy](https://www.udemy.com/course/wordpress-themes-plugins-development/?referralCode=5FE49258397AD5577BAF). Additionally, I am professional in React.js, Next.js and Node.js. Lastly, I am also familiar with Swift and Python.
 
 ### Currently
 Studying ML and Web3. Building something great that will take some time ...
