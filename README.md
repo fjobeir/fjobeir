@@ -18,4 +18,3 @@ Probably we worked together on one of those projects:
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/fjobeir)
-- [Twitter](https://twitter.com/fjobeir)
