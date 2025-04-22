@@ -14,6 +14,7 @@ Probably we worked together on one of those projects:
 - Midterm Frontend Project: [Front App](https://github.com/fjobeir/frontend-project-react)
 - [Password Tool](https://github.com/fjobeir/password-generator-checker-react)
 - For Develhope Academy Students: [Click Here](https://github.com/fjobeir/develhope)
+- For some basic AI exercises: [Click Here](https://github.com/fjobeir/ai)
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/fjobeir)
